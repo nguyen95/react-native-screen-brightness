@@ -35,5 +35,5 @@ repositories {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
-    implementation 'androidx.core:$androidXCore'
+    implementation 'androidx.core:core:$androidXCore'
 }
